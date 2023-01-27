@@ -1,0 +1,42 @@
+
+.MuiInputBase-root 
+    {
+    color: #000 !important;
+    /* opacity:100% !important */
+/* background-color: aqua; */
+  }
+  
+.checked-item {
+  text-decoration: line-through;
+}
+
+
+/* .MuiListItemText-root .MuiListItemText-dense .css-tlelie-MuiListItemText-root  */
+
+/* .css-tlelie-MuiListItemText-root{
+  flex: none !important;
+}
+
+.css-1oqqzyl-MuiContainer-root {
+max-width: 1200px;
+height: 100vh;
+} */
+.button-close {
+  width: 10%;
+  float: left !important;
+  /* background-color: red; */
+}
+.button-close:hover {
+  color: red;
+}
+.dialog-title {
+  width: 90% ;
+  padding: 10px 0 !important;
+  padding-left: 10px !important;
+  float: left;
+  /* background-color: aqua; */
+}
+.MuiList-root .MuiList-padding .jss1  {
+  width: 100% !important;
+  padding : 0 ;
+}
